@@ -10,7 +10,7 @@ export default defineConfig({
       org: "jsm-xt",
       project: "javascript-react",
       options: {
-        telemetry: false,
+        telemetry: true,
       },
     }),
   ],
